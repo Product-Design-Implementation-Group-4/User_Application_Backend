@@ -1,0 +1,1 @@
+Completed setting up a project in Firebase, including implementing login authentication with email, Google, and Facebook.
